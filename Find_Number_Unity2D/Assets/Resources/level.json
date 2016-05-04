@@ -1,0 +1,382 @@
+{"levelArrays":[
+	{
+	"level": "1",
+	"number": "20",
+	"play_mode": "0",
+	"angle": "0",
+    "star": "0",
+    "column": "3",
+    "row":  "3",
+	"time": {
+		"3": 20,
+		"2": 23,
+		"1": 30
+	},
+	},
+  {
+    "level": "2",
+    "number": "20",
+    "play_mode": "1",
+    "angle": "0",
+    "star": "2",
+    "column": "3",
+    "row": "3",
+    "time": {
+      "3": 22,
+      "2": 25,
+      "1": 31
+    }
+  },
+  {
+    "level": "3",
+    "number": "20",
+    "play_mode": "2",
+    "angle": "0",
+    "star": "4",
+    "column": "4",
+    "row": "3",
+    "star_played": "0",
+    "time": {
+      "3": 25,
+      "2": 30,
+      "1": 40
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "4",
+    "number": "24",
+    "play_mode": "0",
+    "angle": "30",
+    "star": "5",
+    "column": "4",
+    "row": "4",
+    "star_played": "0",
+    "time": {
+      "3": 25,
+      "2": 30,
+      "1": 40
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "5",
+    "number": "26",
+    "play_mode": "0",
+    "angle": "30",
+    "star": "7",
+    "column": "4",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 26,
+      "2": 28,
+      "1": 35
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "6",
+    "number": "26",
+    "play_mode": "1",
+    "angle": "30",
+    "star": "9",
+    "column": "5",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 26,
+      "2": 28,
+      "1": 35
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "7",
+    "number": "30",
+    "play_mode": "0",
+    "angle": "60",
+    "star": "10",
+    "column": "5",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 30,
+      "2": 35,
+      "1": 40
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "8",
+    "number": "30",
+    "play_mode": "2",
+    "angle": "60",
+    "star": "12",
+    "column": "5",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 33,
+      "2": 38,
+      "1": 42
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "9",
+    "number": "32",
+    "play_mode": "2",
+    "angle": "60",
+    "star": "14",
+    "column": "5",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 35,
+      "2": 40,
+      "1": 43
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "10",
+    "number": "32",
+    "play_mode": "1",
+    "angle": "90",
+    "star": "15",
+    "column": "5",
+    "row": "5",
+    "star_played": "0",
+    "time": {
+      "3": 35,
+      "2": 40,
+      "1": 43
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "11",
+    "number": "35",
+    "play_mode": "0",
+    "angle": "90",
+    "star": "17",
+    "column": "5",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 35,
+      "2": 40,
+      "1": 45
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "12",
+    "number": "38",
+    "play_mode": "0",
+    "angle": "90",
+    "star": "19",
+    "column": "5",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 38,
+      "2": 40,
+      "1": 45
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "13",
+    "number": "40",
+    "play_mode": "2",
+    "angle": "120",
+    "star": "20",
+    "column": "5",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 44,
+      "2": 48,
+      "1": 55
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "14",
+    "number": "44",
+    "play_mode": "0",
+    "angle": "120",
+    "star": "22",
+    "column": "6",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 45,
+      "2": 48,
+      "1": 55
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "15",
+    "number": "44",
+    "play_mode": "1",
+    "angle": "120",
+    "star": "24",
+    "column": "6",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 47,
+      "2": 50,
+      "1": 58
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "16",
+    "number": "47",
+    "play_mode": "1",
+    "angle": "150",
+    "star": "25",
+    "column": "6",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 49,
+      "2": 53,
+      "1": 60
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "17",
+    "number": "50",
+    "play_mode": "0",
+    "angle": "150",
+    "star": "27",
+    "column": "6",
+    "row": "6",
+    "star_played": "0",
+    "time": {
+      "3": 52,
+      "2": 55,
+      "1": 65
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "18",
+    "number": "50",
+    "play_mode": "1",
+    "angle": "150",
+    "star": "29",
+    "column": "7",
+    "row": "7",
+    "star_played": "0",
+    "time": {
+      "3": 54,
+      "2": 58,
+      "1": 67
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "19",
+    "number": "52",
+    "play_mode": "2",
+    "angle": "180",
+    "star": "30",
+    "column": "7",
+    "row": "7",
+    "star_played": "0",
+    "time": {
+      "3": 58,
+      "2": 62,
+      "1": 70
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "20",
+    "number": "55",
+    "play_mode": "0",
+    "angle": "180",
+    "star": "32",
+    "column": "7",
+    "row": "7",
+    "star_played": "0",
+    "time": {
+      "3": 58,
+      "2": 62,
+      "1": 70
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "21",
+    "number": "57",
+    "play_mode": "1",
+    "angle": "180",
+    "star": "34",
+    "column": "7",
+    "row": "7",
+    "star_played": "0",
+    "time": {
+      "3": 60,
+      "2": 63,
+      "1": 70
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "22",
+    "number": "60",
+    "play_mode": "0",
+    "angle": "180",
+    "star": "35",
+    "column": "7",
+    "row": "7",
+    "star_played": "0",
+    "time": {
+      "3": 60,
+      "2": 63,
+      "1": 70
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "23",
+    "number": "62",
+    "play_mode": "0",
+    "angle": "180",
+    "star": "37",
+    "column": "8",
+    "row": "8",
+    "star_played": "0",
+    "time": {
+      "3": 60,
+      "2": 63,
+      "1": 70
+    },
+    "time_played": "0"
+  },
+  {
+    "level": "24",
+    "number": "65",
+    "play_mode": "2",
+    "angle": "180",
+    "star": "40",
+    "column": "8",
+    "row": "8",
+    "star_played": "0",
+    "time": {
+      "3": 65,
+      "2": 68,
+      "1": 71
+    },
+    "time_played": "0"
+  }
+]}
